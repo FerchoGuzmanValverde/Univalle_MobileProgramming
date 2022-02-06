@@ -1,0 +1,41 @@
+F:\progra\practica14Nov\practica14Nov\bin\Debug\practica14Nov.exe.config
+F:\progra\practica14Nov\practica14Nov\bin\Debug\practica14Nov.exe
+F:\progra\practica14Nov\practica14Nov\bin\Debug\practica14Nov.pdb
+F:\progra\practica14Nov\practica14Nov\obj\Debug\Home.g.cs
+F:\progra\practica14Nov\practica14Nov\obj\Debug\MainWindow.g.cs
+F:\progra\practica14Nov\practica14Nov\obj\Debug\App.g.cs
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov_MarkupCompile.cache
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov_MarkupCompile.lref
+F:\progra\practica14Nov\practica14Nov\obj\Debug\Home.baml
+F:\progra\practica14Nov\practica14Nov\obj\Debug\MainWindow.baml
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov.g.resources
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov.Properties.Resources.resources
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov.csproj.GenerateResource.Cache
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov.exe
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov.pdb
+F:\progra\practica14Nov\practica14Nov\obj\Debug\practica14Nov.csprojResolveAssemblyReference.cache
+F:\progra\practica14Nov\practica14Nov\obj\Debug\Ejemplo.g.cs
+F:\progra\practica14Nov\practica14Nov\obj\Debug\Ejemplo.baml
+F:\progra\practica14Nov\practica14Nov\obj\Debug\Constante.g.cs
+F:\progra\practica14Nov\practica14Nov\obj\Debug\Constante.baml
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\bin\Debug\practica14Nov.exe.config
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\bin\Debug\practica14Nov.exe
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\bin\Debug\practica14Nov.pdb
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.csprojAssemblyReference.cache
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\Constante.g.cs
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\Ejemplo.g.cs
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\Home.g.cs
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\MainWindow.g.cs
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\App.g.cs
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov_MarkupCompile.cache
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov_MarkupCompile.lref
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\Constante.baml
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\Ejemplo.baml
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\Home.baml
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\MainWindow.baml
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.g.resources
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.Properties.Resources.resources
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.csproj.GenerateResource.cache
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.csproj.CoreCompileInputs.cache
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.exe
+E:\Univalle\Semestre 2\Programacion2\2parcial\practica14Nov\practica14Nov\obj\Debug\practica14Nov.pdb

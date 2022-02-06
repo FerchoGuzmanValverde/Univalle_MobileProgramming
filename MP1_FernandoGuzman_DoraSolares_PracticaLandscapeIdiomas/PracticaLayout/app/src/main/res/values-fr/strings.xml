@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaLayout</string>
+    <string name="Titulo">ALCULATRICE</string>
+    <string name="num1">Entrez un numéro:</string>
+    <string name="num2">Entrez un numéro:</string>
+    <string name="p1">P1:</string>
+    <string name="p2">P2:</string>
+    <string name="btnIngresar">Calculer</string>
+    <string name="resp">....</string>
+</resources>

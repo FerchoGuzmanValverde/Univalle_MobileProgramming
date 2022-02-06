@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaLayout</string>
+    <string name="Titulo">CALCULADORA</string>
+    <string name="num1">Ingrese un número</string>
+    <string name="num2">Ingrese un número</string>
+    <string name="p1">P1:</string>
+    <string name="p2">P2:</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="resp">...</string>
+</resources>

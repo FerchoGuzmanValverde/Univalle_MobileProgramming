@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_lunes">Lunes</string>
+    <string name="menu_martes">Martes</string>
+    <string name="menu_miercoles">Miercoles</string>
+    <string name="menu_jueves">Jueves</string>
+    <string name="menu_viernes">Viernes</string>
+    <string name="menu_pecho">Pecho</string>
+    <string name="menu_brazo">Brazo</string>
+    <string name="menu_hombro">Hombro</string>
+    <string name="menu_pierna">Pierna</string>
+    <string name="menu_abdomen">Abdomen</string>
+    <string name="menu_gluteo">Gluteo</string>
+    <string name="title_activity_hombros">Hombros</string>
+    <string name="title_activity_brazo">Brazo</string>
+    <string name="title_activity_pechos">Pechos</string>
+    <string name="title_activity_pierna">Pierna</string>
+    <string name="title_activity_abdomen">Abdomen</string>
+    <string name="title_activity_gluteos">Gluteos</string>
+    <string name="title_activity_lunes">Lunes</string>
+    <string name="title_activity_martes">Martes</string>
+    <string name="title_activity_miercoles">Miercoles</string>
+    <string name="title_activity_jueves">Jueves</string>
+    <string name="title_activity_viernes">Viernes</string>
+    <string name="ContenidoPierna">
+        Consejos:\n
+        -   Sientese sobre el borde de la silla, sin que la rodilla se exeda a los dedos de los pies.\n
+        -   Endurezca los gluteos al pararse.\n
+        -   Mantenga la zona media apretada y solo relaje las piernas un poco mientras se sienta.\n
+    </string>
+    <string name="ContenidoGluteo">
+        Consejos:\n
+        -   Al ponerse de cuclillas, asegurese que sus rodillas esten abiertas y que no pasen los dedos
+            de los pies.\n
+        -   Mantenga la espalda recta.\n
+        -   Al volver a la posicion inicial, de un pequeño salto.
+    </string>
+    <string name="ContenidoAbdomen">
+        Consejos:\n
+        -   Acuestese boca arriba y doble las rodillas con los pies apoyados en el suelo.\n
+        -   Haga abdominales y gire el torso hacia la izquierda, llevando el codo derecho hacia el muslo izquierdo.\n
+        -   Cambie el lado opuesto con el mismo movimiento.
+    </string>
+    <string name="ContenidoPecho">
+        Consejos:\n
+        -   Empiece en una posicion de plancha alta con las manos a la altura de los hombros.\n
+        -   Doble los brazos para bajar el cuerpo hasta que el codo del brazo este mas alto que el torso.\n
+        -   Extienda los brazos para empujar el cuerpo hacia arriba.
+    </string>
+    <string name="ContenidoHombro">
+        Consejos:\n
+        -   Pongase de pie erguido con el pecho hacia arriba y el tronco rigido.\n
+        -   Manteniendo los hombros hacia abajo y hacia atras levante las pesas lateralmente hasta que los codos
+            esten al nivel de los hombros.\n
+        -   Mantenga esa posicion durante una breve pausa y luego baje lentamente los brazos.
+    </string>
+    <string name="ContenidoBrazo">
+        Consejos:\n
+        -   Mantengase erguido con el pecho en alto y el tronco rigido.\n
+        -   Enrolle las pesas hasta el nivel de los hombros y mantengalas durante una breve pausa.\n
+        -   Presione hacia arriba extendiendo los codos.
+    </string>
+
+    <string name="ContenidoLunes">
+        Indicacion\n\n
+        -   Repeticiones: 13\n
+        -   Series: 4\n
+    </string>
+    <string name="ContenidoMartes">
+        Indicacion\n\n
+        -   Repeticiones: 15\n
+        -   Series: 4\n
+    </string>
+    <string name="ContenidoMiercoles">
+        Indicacion\n\n
+        -   Repeticiones: 20\n
+        -   Series: 5\n
+    </string>
+    <string name="ContenidoViernes">
+        Indicacion\n\n
+        -   Repeticiones: 10\n
+        -   Series: 3\n
+    </string>
+    <string name="ContenidoJueves">
+        Indicacion\n\n
+        -   Repeticiones: 13\n
+        -   Series: 4\n
+    </string>
+    <string name="tituloabs">ABDOMINALES CRUZADOS</string>
+    <string name="ej1">EJERCICIO 1</string>
+    <string name="titulobrazo">LEVANTAMIENTO DE PESAS</string>
+    <string name="titulogluteo">SENTADILLA CON SALTO</string>
+    <string name="titulopierna">SENTADILLA EN CAJA</string>
+    <string name="titulojueves">Rutina de Jueves</string>
+    <string name="titulohombro">LEVANTAMIENTO DE PESAS LATERAL</string>
+    <string name="titulolunes">Rutina de Lunes</string>
+    <string name="titulomartes">Rutina de Martes</string>
+    <string name="titulomiercoles">Rutina de Miercoles</string>
+    <string name="tituloviernes">Rutina de Viernes</string>
+    <string name="titulopecho">FLEXIONES CERRADAS</string>
+    <string name="welcome">Bievenido a mi app</string>
+    <string name="dias">POR DIA</string>
+    <string name="partes">POR PARTES DEL CUERPO</string>
+</resources>

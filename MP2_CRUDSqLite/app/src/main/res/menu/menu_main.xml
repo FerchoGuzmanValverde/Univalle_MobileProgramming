@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.crud.MainActivity">
+    <item android:title="CREAR" android:id="@+id/itemCrear"/>
+    <item android:title="MODIFICAR" android:id="@+id/itemModificar"/>
+    <item android:title="ELIMINAR" android:id="@+id/itemEliminar"/>
+</menu>

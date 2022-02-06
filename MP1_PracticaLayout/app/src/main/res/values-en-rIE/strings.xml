@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticaLayout</string>
+    <string name="Titulo">CALCULATER</string>
+    <string name="num1">Put a number:</string>
+    <string name="num2">Put a number:</string>
+    <string name="p1">P1:</string>
+    <string name="p2">P2:</string>
+    <string name="btnIngresar">Make</string>
+    <string name="resp">....</string>
+</resources>

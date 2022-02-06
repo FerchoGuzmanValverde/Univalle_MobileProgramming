@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="POR DÍA">
+        <menu>
+            <item
+                android:id="@+id/nav_lunes"
+                android:icon="@drawable/monday_calendar_page"
+                android:title="@string/menu_lunes" />
+            <item
+                android:id="@+id/nav_martes"
+                android:icon="@drawable/tuesday_daily_calendar_page"
+                android:title="@string/menu_martes" />
+            <item
+                android:id="@+id/nav_miercoles"
+                android:icon="@drawable/wednesday_calendar_daily_page"
+                android:title="@string/menu_miercoles" />
+            <item
+                android:id="@+id/nav_jueves"
+                android:icon="@drawable/thursday_calendar_daily_page_interface_symbol"
+                android:title="@string/menu_jueves" />
+            <item
+                android:id="@+id/nav_viernes"
+                android:icon="@drawable/friday_daily_calendar_page"
+                android:title="@string/menu_viernes" />
+        </menu>
+    </item>
+    <item android:title="POR PARTES DEL CUERPO">
+        <menu>
+            <item
+                android:id="@+id/nav_pecho"
+                android:icon="@drawable/men_chest"
+                android:title="@string/menu_pecho" />
+            <item
+                android:id="@+id/nav_hombro"
+                android:icon="@drawable/shoulder"
+                android:title="@string/menu_hombro" />
+            <item
+                android:id="@+id/nav_brazo"
+                android:icon="@drawable/muscles"
+                android:title="@string/menu_brazo" />
+            <item
+                android:id="@+id/nav_abdomen"
+                android:icon="@drawable/men_chest"
+                android:title="@string/menu_abdomen" />
+            <item
+                android:id="@+id/nav_pierna"
+                android:icon="@drawable/male_hips_and_quadriceps"
+                android:title="@string/menu_pierna" />
+            <item
+                android:id="@+id/nav_gluteo"
+                android:icon="@drawable/butt"
+                android:title="@string/menu_gluteo" />
+        </menu>
+    </item>
+
+</menu>

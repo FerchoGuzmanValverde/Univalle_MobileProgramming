@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contrato</string>
+    <string name="gender_male">macho</string>
+    <string name="gender_female">hembra</string>
+    <string name="gender_desconocido">desconocido</string>
+    <string name="nombre">Nombre</string>
+    <string name="raza">Raza</string>
+    <string name="peso">Peso</string>
+    <string name="genero">Genero</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="ejemplo">Cargar Datos Ejemplo</string>
+</resources>
